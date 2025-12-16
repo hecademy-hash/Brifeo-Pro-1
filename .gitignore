@@ -29,6 +29,7 @@ node_modules/
 # tasks/ 
 
 # Documentation
-docs/
+docs/*
 !docs/*TEMPLATE*
 !docs/*template*
+!docs/CHANGELOG.md
